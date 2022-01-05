@@ -1,0 +1,32 @@
+<application>
+  <component name="BigDataIdeGlobalConnectionSettings">
+    <option name="connections">
+      <list>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="rootPath" value="rO0ABXQADkM6XFVzZXJzXEF6dXJl" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData" />
+          <option name="groupId" value="RfsLocalConnectionGroup" />
+          <option name="innerId" value="Local@RfsLocalConnectionGroup@-3970535062723628240" />
+          <option name="name" value="Local" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="rootPath" value="rO0ABXQAKUM6XFVzZXJzXEF6dXJlXE9uZURyaXZlIC0gQnVzY2ggQW5hbHl0aWNz" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData" />
+          <option name="groupId" value="RfsLocalConnectionGroup" />
+          <option name="innerId" value="Local@RfsLocalConnectionGroup@8795475235909813114" />
+          <option name="name" value="OneDrive" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
+      </list>
+    </option>
+  </component>
+</application>
