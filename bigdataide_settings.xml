@@ -63,4 +63,12 @@
       </list>
     </option>
   </component>
+  <component name="RfsDownloadedStorageManager">
+    <option name="fileList">
+      <list>
+        <option value="b__TFofall_xls.xls\fall.xls" />
+      </list>
+    </option>
+    <option name="mainDirPath" value="C:\Users\Azure\AppData\Local\Temp\HDFS-downloaded" />
+  </component>
 </application>
