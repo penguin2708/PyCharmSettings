@@ -17,7 +17,7 @@
         <entry key="duplicate" value="NOT_PASSED" />
         <entry key="extract method" value="NOT_PASSED" />
         <entry key="extract variable" value="NOT_PASSED" />
-        <entry key="file structure" value="NOT_PASSED" />
+        <entry key="file structure" value="PASSED" />
         <entry key="find in files" value="NOT_PASSED" />
         <entry key="git.annotate" value="NOT_PASSED" />
         <entry key="git.basicworkflow" value="NOT_PASSED" />
