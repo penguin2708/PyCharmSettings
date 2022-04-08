@@ -1,18 +1,11 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views />
-    <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-    </general>
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="python">
-        <configuration>
-          <option name="valuesPolicy" value="ON_DEMAND" />
         </configuration>
       </debugger>
     </debuggers>
